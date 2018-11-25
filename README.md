@@ -10,3 +10,5 @@ This is an example of an Apigee proxy with some basic policies in place also (re
 For full instructions on how to get the nodejs facade and proxy into Apigee please see - https://github.com/apigee/apigee-partner-se-bootcamp/tree/master/labs/API%20Services%20Lesson%206%20-%20Create%20a%20Node.js%20Proxy (This repo was obviously influenced heavily by that).
 
 For more about Apigee policies please see - https://docs.apigee.com/api-platform/reference/policies/reference-overview-policy . Cheers.
+
+P.S. I'm still learning Apigee so please let me know if something could be improved (within the context of this simple example).  Cheers.
